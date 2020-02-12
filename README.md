@@ -1,10 +1,10 @@
-# Automatic Recommendation Tool (ART)
+# Automated Recommendation Tool (ART)
 
 ART is a tool that leverages machine learning and probabilistic modeling techniques to guide metabolic engineering in a systematic fashion, without the need for a full mechanistic understanding of the biological system. Using sampling-based optimization, ART provides a set of recommended strains to be built in the next engineering cycle in order to achieve the given objective, alongside probabilistic predictions of their production levels.
 
 <!-- - [Documentation](#documentation) -->
 - [System Requirements](#system-requirements)
-- [Instructions for use](#instructions-for-use)
+- [Example](#example)
 - [Reference](#reference)
 - [License](#license)
 

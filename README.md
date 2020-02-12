@@ -27,7 +27,7 @@ Generating this output in a jupyter notebook should take ~5 mins on a MacBook Pr
 
 ## Reference
 
-Radivojević T., Costello Z., Workman K., Garcia Martin H., ART: A machine learning AutomatedRecommendation Tool for synthetic biology, [arXiv:1911.11091](https://arxiv.org/abs/1911.11091)
+Radivojević T., Costello Z., Workman K., Garcia Martin H., ART: A machine learning Automated Recommendation Tool for synthetic biology, [arXiv:1911.11091](https://arxiv.org/abs/1911.11091)
 
 
 ## License

@@ -32,9 +32,11 @@ Radivojević T., Costello Z., Workman K., Garcia Martin H., ART: A machine learn
 
 ## License
 
-This code is distributed under the license specified in the `License.pdf` file and is *Patent Pending*. This license allows for free **non-commercial** use and modification by third parties as long as the modifications are offered to the original repository. Hence, users are encouraged to enhance it in ways that satisfy their needs.
+This code is distributed under the license specified in the `License.pdf` file and is *Patent Pending*.
 
-A separate **commercial** use license is available from Berkeley Lab @ ipo@lbl.gov. Evaluation will be granted for 45 days, and the license terms are $10,000 for businesses with less than 250 employes and $25,000 for businesses with more than 250 employes.
+This license allows for free **non-commercial** use and modification by third parties as long as the modifications are fed back to the original repository. Hence, users are encouraged to enhance it in ways that satisfy their needs.
 
-Once the license is signed via DocuSign, interested parties will recieve the information for accessing a private repository with the `ART` package.
+A separate **commercial** use license is available from Berkeley Lab @ ipo@lbl.gov. An evaluation license can be obtained for 45 days of testing. The license terms are $10,000 for small businesses (less than 250 employees) and $25,000 for large businesses (more than 250 employees). 
+
+Once the license is signed via DocuSign, interested parties will receive the information for accessing the private repository containing the `ART` source code.
 

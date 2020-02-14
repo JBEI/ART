@@ -105,11 +105,3 @@ ENV/
 # data/
 *.rtf
 *.png
-data/Limonene_data_for_EDD_import
-data/HoplessBeerCycle2Data.csv
-data/HoplessBeerCycle1Data.csv
-data/HoplessBeerAllData.csv
-data/Ajinomoto_Pathway1.csv
-data/Ajinomoto_Pathway2.csv
-data/Ajinomoto_Pathway3.csv
-data/EDD_Ajinomoto_Data.csv

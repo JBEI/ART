@@ -38,5 +38,5 @@ This license allows for free **non-commercial** use for **academic institutions*
 
 A separate **commercial** use license is available from Berkeley Lab @ ipo@lbl.gov. The license terms are $10,000 for small businesses (less than 250 employees) and $25,000 for large businesses (more than 250 employees). An **evaluation license** for commercial use can be obtained for 45 days of testing.
 
-Once the license is signed via DocuSign, interested parties will receive the information for accessing the private repository containing the `ART` source code.
+Once the license is signed via DocuSign, interested parties will receive the information for accessing the private github repository containing the `ART` source code.
 

@@ -21,7 +21,7 @@ This package is supported for *macOS* and *Linux*. The package has been tested o
 
 ## Example
 
-An example is provided in the `Limonene_Example.html` file.
+An example is provided in the [`Limonene_Example.html`](https://htmlpreview.github.io/?https://github.com/JBEI/ART/blob/master/Limonene_Example.html) file.
 Generating this output in a jupyter notebook should take ~5 mins on a MacBook Pro, CPU: 3.5GHz Intel Core i7, RAM: 16GB (2133MHz LPDDR3).
 
 

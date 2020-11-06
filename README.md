@@ -23,15 +23,17 @@ This package is supported for *macOS* and *Linux*. The package has been tested o
 + macOS: Mojave (10.14.1), Catalina (10.15.1)
 + Linux: Debian 9
 
-## Example
+## Examples
 
 An example is provided in the [`Limonene_Example.html`](https://htmlpreview.github.io/?https://github.com/JBEI/ART/blob/master/Limonene_Example.html) file.
 Generating this output in a jupyter notebook should take ~5 mins on a MacBook Pro, CPU: 3.5GHz Intel Core i7, RAM: 16GB (2133MHz LPDDR3).
 
+Additional tutorials, including real and simulated data sets, are provided in the [`notebooks`](https://github.com/JBEI/ART/tree/master/notebooks) directory.
+
 
 ## Reference
 
-Radivojević T., Costello Z., Workman K., Garcia Martin H., ART: A machine learning Automated Recommendation Tool for synthetic biology, [arXiv:1911.11091](https://arxiv.org/abs/1911.11091)
+[Radivojević T., Costello Z., Workman K., Garcia Martin H., A machine learning Automated Recommendation Tool for synthetic biology, Nat Commun 11, 4879 (2020).](https://www.nature.com/articles/s41467-020-18008-4)
 
 
 ## License

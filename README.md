@@ -4,7 +4,7 @@ ART is a tool that leverages machine learning and probabilistic modeling techniq
 
 Please note that this repository does not contain ART source code. For information on how to access the library see the [License](#license) section.
 
-Please find more details about ART at the [ART website](https://sites.google.com/lbl.gov/art)
+Please find more details about ART at the [ART website](https://sites.google.com/lbl.gov/art).
 
 
 

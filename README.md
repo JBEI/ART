@@ -42,7 +42,7 @@ Additional tutorials, including real and simulated data sets, are provided in th
 
 ART code is distributed under the license specified in the [`Noncomercial_Academic_LA.pdf`](https://github.com/JBEI/ART/blob/master/Noncomercial_Academic_LA.pdf) file and is *Patent Pending*.
 
-This license allows for free **non-commercial** use for **academic institutions**. Modification should be fed back to the original repository to benefit all users. If interested in an academic license of this type, please email tradivojevic@lbl.gov using the email address from your academic institution, and provide your github handle.  
+This license allows for free **non-commercial** use for **academic institutions**. Modification should be fed back to the original repository to benefit all users. If interested in an academic license of this type, please email tradivojevic@lbl.gov using the email address from your academic institution, and provide your github handle. You will then be added to the private github repository containing the `ART` source code.
 
 A separate **commercial** use license is available from Berkeley Lab @ ipo@lbl.gov. The license terms (perpetual) are $10,000 for small businesses (less than 250 employees) and $25,000 for large businesses (more than 250 employees). Once the license is signed, interested parties will receive the information for accessing the private github repository containing the `ART` source code.
 

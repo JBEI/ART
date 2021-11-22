@@ -17,13 +17,27 @@ Please find more details about ART at the [ART website](https://sites.google.com
 ## System Requirements
 
 ### Hardware requirements
-`ART` package requires only a standard computer with enough RAM to support the in-memory operations.
+
+`ART` package requires only a standard computer with enough RAM to support the in-memory
+operations. For some problems, ART's results will improve on systems with many processor cores to
+dedicate to its Markov Chain Monte Carlo (MCMC) sampling.
 
 ### Software requirements
 #### OS Requirements
-This package is supported for *macOS* and *Linux*. The package has been tested on the following systems:
-+ macOS: Mojave (10.14.1), Catalina (10.15.1)
-+ Linux: Debian 9
+
+The ART Docker image will run on any OS that Docker supports (e.g. macOS, Linux, Windows).
+
+Direct installs of ART have been tested on _macOS_ and _Linux_. The package has been tested on
+the following systems:
+
+-   macOS: Mojave (10.14.1), Catalina (10.15.1)
+-   Linux: Debian 9 & 10
+
+#### Docker
+
+Docker is the preferred environment for running ART, as it creates reproduceable runs in a tested
+runtime environment. Docker also avoids the installation headaches and potential pitfalls
+of directly installing ART into your system Python.
 
 ## Examples
 

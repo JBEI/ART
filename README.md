@@ -17,13 +17,27 @@ Please find more details about ART at the [ART website](https://sites.google.com
 ## System Requirements
 
 ### Hardware requirements
-`ART` package requires only a standard computer with enough RAM to support the in-memory operations.
+
+`ART` package requires only a standard computer with enough RAM to support the in-memory
+operations. For some problems, ART's results will improve on systems with many processor cores to
+dedicate to its Markov Chain Monte Carlo (MCMC) sampling.
 
 ### Software requirements
 #### OS Requirements
-This package is supported for *macOS* and *Linux*. The package has been tested on the following systems:
-+ macOS: Mojave (10.14.1), Catalina (10.15.1)
-+ Linux: Debian 9
+
+The ART Docker image will run on any OS that Docker supports (e.g. macOS, Linux, Windows).
+
+Direct installs of ART have been tested on _macOS_ and _Linux_. The package has been tested on
+the following systems:
+
+-   macOS: Mojave (10.14.1), Catalina (10.15.1)
+-   Linux: Debian 9 & 10
+
+#### Docker
+
+Docker is the preferred environment for running ART, as it creates reproduceable runs in a tested
+runtime environment. Docker also avoids the installation headaches and potential pitfalls
+of directly installing ART into your system Python.
 
 ## Examples
 
@@ -42,9 +56,9 @@ Additional tutorials, including real and simulated data sets, are provided in th
 
 ART code is distributed under the license specified in the [`Noncomercial_Academic_LA.pdf`](https://github.com/JBEI/ART/blob/master/Noncomercial_Academic_LA.pdf) file and is *Patent Pending*.
 
-This license allows for free **non-commercial** use for **academic institutions**. Modification should be fed back to the original repository to benefit all users. If interested in an academic license of this type, please email tradivojevic@lbl.gov using the email address from your academic institution, and provide your github handle.  
+This license allows for free **non-commercial** use for **academic institutions**. Modification should be fed back to the original repository to benefit all users. If interested in an academic license of this type, please email tradivojevic@lbl.gov using the email address from your academic institution, and provide your github handle. You will then be added to the private github repository containing the `ART` source code.
 
-A separate **commercial** use license is available from Berkeley Lab @ ipo@lbl.gov. The license terms (perpetual) are $10,000 for small businesses (less than 250 employees) and $25,000 for large businesses (more than 250 employees). Once the license is signed, interested parties will receive the information for accessing the private github repository containing the `ART` source code.
+A separate **commercial** use license is available from Berkeley Lab @ ipo@lbl.gov. The license terms (10 years) are $10,000 for small businesses (less than 250 employees) and $25,000 for large businesses (more than 250 employees). Once the license is signed, interested parties will receive the information for accessing the private github repository containing the `ART` source code.
 
-An **evaluation license** for commercial use can be obtained for 45 days of testing by filling the [`Evaluation_LA.pdf`](https://github.com/JBEI/ART/blob/master/Evaluation_LA.pdf) file and sending back to Jean Haemmerle, LBNL Licensing Analyst @ jhaemmerle@lbl.gov. Once the license is signed, interested parties will receive the information for accessing the private github repository containing the `ART` source code.
+An **evaluation license** for commercial users can be obtained for 45 days of testing by filling the [`Evaluation_LA.pdf`](https://github.com/JBEI/ART/blob/master/Evaluation_LA.pdf) file and sending back to Jean Haemmerle, LBNL Licensing Associate @ jhaemmerle@lbl.gov. Once the license is signed, interested parties will receive the information for accessing the private github repository containing the `ART` source code.
 

@@ -44,12 +44,12 @@ def plot_function(function, bounds, dimension, points=None):
 
     plt.show()
     
-def simulate_recommendations_responses(art,simulation_function, dim, file_name):
+def simulate_recommendations_responses(art, simulation_function, dim, file_name):
     P_new = art.recommendations.values[:, :-1]
     r_new = simulation_function(P_new.T, dim).reshape(-1, 1)
     P = np.concatenate((art.X, P_new))
     r = np.concatenate((art.y, r_new))
-    utils.save_edd_csv(P, r, art.input_vars, file_name, response_vars_names=art.response_vars[0])
+    utils.save_edd_csv(P, r, art.input_vars, file_name, response_vars=art.response_vars[0])
     
     return r
 

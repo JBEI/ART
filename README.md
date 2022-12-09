@@ -18,26 +18,37 @@ Please find more details about ART at the [ART website](https://sites.google.com
 
 ### Hardware requirements
 
-`ART` package requires only a standard computer with enough RAM to support the in-memory
-operations. For some problems, ART's results will improve on systems with many processor cores to
-dedicate to its Markov Chain Monte Carlo (MCMC) sampling.
+The `ART` package requires only a standard computer with enough RAM to support the in-memory
+operations. While slimmer installs may be possible, at the time of writing, ART developers
+typically dedicate 8GB RAM and 80GB of disk to the Docker Desktop instance used to develop and
+test the code on MacOS.
+
+ART requires a minimum of 2 physical processor cores to run Markov Chain Monte Carlo (MCMC)
+sampling. For more complex problems, ART's results will improve on systems with many processor
+cores to dedicate to MCMC sampling (see the `max_mcmc_cores` parameter).
 
 ### Software requirements
+
 #### OS Requirements
 
 The ART Docker image will run on any OS that Docker supports (e.g. macOS, Linux, Windows).
 
-Direct installs of ART have been tested on _macOS_ and _Linux_. The package has been tested on
-the following systems:
+Direct install of ART into your system Python is not the recommended or supported
+workflow. Please use the included Docker image for reproducible builds, and as a reference for any
+direct installs you attempt on your own. While there are valid reasons to use ART externally to
+the included Docker image, unfortunately the ART team is not resourced to support
+non-Docker workflows.
+
+In the past, direct installs of ART had been tested on _macOS_ and _Linux_:
 
 -   macOS: Mojave (10.14.1), Catalina (10.15.1)
 -   Linux: Debian 9 & 10
 
 #### Docker
 
-Docker is the preferred environment for running ART, as it creates reproduceable runs in a tested
-runtime environment. Docker also avoids the installation headaches and potential pitfalls
-of directly installing ART into your system Python.
+Docker is the preferred / supported environment for running ART. Docker creates reproducible
+runs in a tested runtime environment. Docker also avoids the installation headaches and potential
+pitfalls of directly installing ART into your system Python.
 
 ## Examples
 

@@ -71,5 +71,5 @@ This license allows for free **non-commercial** use for **academic institutions*
 
 A separate **commercial** use license is available from Berkeley Lab @ ipo@lbl.gov. The license terms (10 years) are $10,000 for small businesses (less than 250 employees) and $25,000 for large businesses (more than 250 employees). Once the license is signed, interested parties will receive the information for accessing the private github repository containing the `ART` source code.
 
-An **evaluation license** for commercial users can be obtained for 45 days of testing by filling the [`Evaluation_LA.pdf`](https://github.com/JBEI/ART/blob/master/Evaluation_LA.pdf) file and sending back to Jean Haemmerle, LBNL Licensing Associate @ jhaemmerle@lbl.gov. Once the license is signed, interested parties will receive the information for accessing the private github repository containing the `ART` source code.
+An **evaluation license** for commercial users can be obtained for 90 days of testing by filling the [`Evaluation_LA.pdf`](https://github.com/JBEI/ART/blob/master/Evaluation_LA.pdf) file and sending back to Jean Haemmerle, LBNL Licensing Associate @ jhaemmerle@lbl.gov. Once the license is signed, interested parties will receive the information for accessing the private github repository containing the `ART` source code.
 

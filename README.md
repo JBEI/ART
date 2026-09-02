@@ -51,7 +51,7 @@ pitfalls of directly installing ART into your system Python.
 
 ## Examples
 
-An example is provided in the [`Limonene_Example.html`](https://htmlpreview.github.io/?https://github.com/JBEI/ART/blob/master/Limonene_Example.html) file.
+An example is provided in the [`Limonene_Example_Tutorial.ipynb`](https://htmlpreview.github.io/?https://github.com/JBEI/ART/blob/master/Limonene_Example_Tutorial.ipynb) file.
 Generating this output in a jupyter notebook should take ~5 mins on a MacBook Pro, CPU: 3.5GHz Intel Core i7, RAM: 16GB (2133MHz LPDDR3).
 
 Additional tutorials, including real and simulated data sets, are provided in the [`notebooks`](https://github.com/JBEI/ART/tree/master/notebooks) directory.
@@ -71,4 +71,3 @@ This license allows for free **non-commercial** use for **academic institutions*
 A separate **commercial** use license is available from Berkeley Lab @ ipo@lbl.gov. The license terms (10 years) are $10,000 for small businesses (250 employees or less) and $25,000 for large businesses (more than 250 employees). Once the license is signed, interested parties will receive the information for accessing the private github repository containing the `ART` source code.
 
 An **evaluation license** for commercial users can be obtained for 90 days of testing by filling the [`Evaluation_SLA.pdf`](https://github.com/JBEI/ART/blob/master/Evaluation_SLA.pdf) file and sending back to Jean Haemmerle, LBNL Licensing Associate @ jhaemmerle@lbl.gov. Once the license is signed, interested parties will receive the information for accessing the private github repository containing the `ART` source code.
-

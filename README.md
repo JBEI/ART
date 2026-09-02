@@ -51,7 +51,7 @@ pitfalls of directly installing ART into your system Python.
 
 ## Examples
 
-An example is provided in the [`Limonene_Example_Tutorial.ipynb`](https://htmlpreview.github.io/?https://github.com/JBEI/ART/blob/master/Limonene_Example_Tutorial.ipynb) file.
+An example is provided in the [`Limonene_Example_Tutorial.ipynb`](https://github.com/JBEI/ART/blob/master/notebooks/Limonene_Example_Tutorial.ipynb) file.
 Generating this output in a jupyter notebook should take ~5 mins on a MacBook Pro, CPU: 3.5GHz Intel Core i7, RAM: 16GB (2133MHz LPDDR3).
 
 Additional tutorials, including real and simulated data sets, are provided in the [`notebooks`](https://github.com/JBEI/ART/tree/master/notebooks) directory.
